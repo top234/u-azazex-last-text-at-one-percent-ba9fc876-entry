@@ -4,7 +4,7 @@
 
 # Last Text at One Percent
 
-A dying phone's last text at 1% battery. It doesn't blame the battery — it blames its owner: 11 hours of screen time today, and the phone got used up.
+A dying phone's last text at 1% battery. It doesn't rage — it forgives itself and hands the guilt back: you opened TikTok "for 5 minutes" four hours ago. The phone has no regrets. You should.
 
 ## Run it
 
@@ -13,4 +13,4 @@ OUTPUT_DIR=/tmp/last-text-out node main.ts
 cat /tmp/last-text-out/entry.txt
 ```
 
-The program writes a single 78-character text to `$OUTPUT_DIR/entry.txt` (defaults to `/output`).
+The program writes a single 89-character text to `$OUTPUT_DIR/entry.txt` (defaults to `/output`).
